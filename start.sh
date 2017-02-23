@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "sleeping until mongo starts"
+echo "sleeping until mongo starts (Lazy instead of testing if mongo is actually up or not)"
 
 sleep 15
 
